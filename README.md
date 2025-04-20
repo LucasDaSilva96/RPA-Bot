@@ -1,9 +1,9 @@
-# Why do programmers always get Christmas and Halloween mixed up?
+# How does a penguin build it’s house?
 
-> Because DEC 25 = OCT 31
+## Igloos it together.
 
 ---
-**Created At:** 2025-04-20 17:47:20
+**Created At:** 2025-04-20 17:49:20
 
 ---
 ### Today's Image
