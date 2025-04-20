@@ -1,9 +1,9 @@
-# How does a penguin build it’s house?
+# Why don't oysters give to charity?
 
-## Igloos it together.
+## Because they're shellfish.
 
 ---
-**Created At:** 2025-04-20 17:49:20
+**Created At:** 2025-04-20 17:51:02
 
 ---
 ### Today's Image
